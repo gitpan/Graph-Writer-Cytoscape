@@ -15,7 +15,7 @@ Version 1.00
 
 =cut
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 
 =head1 SYNOPSIS
@@ -180,6 +180,9 @@ L<http://search.cpan.org/dist/Graph-Writer-Cytoscape/>
 
 =back
 
+=head1 DEPENDENCIES
+
+Graph::Writer
 
 =head1 ACKNOWLEDGEMENTS
 
